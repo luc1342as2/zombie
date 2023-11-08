@@ -1,0 +1,7 @@
+Number of Zombies at the start = 4, at the end = 36
+Number of Humans at the start = 32, at the end = 0
+The percentage of Humans that survived = 0
+The percentage of Humans that remained students = 0
+The percentage of Zombies that are Blood Suckers = 33
+The percentage of Zombies that are Brain Suckers = 66
+The number of iterations = 9
