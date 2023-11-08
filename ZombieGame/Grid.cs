@@ -5,6 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+// Lucas Ghigli
+// 08/28/2022
+// Zombie Infestation Game
+// ZombieGame.java
+
 namespace ZombieGame
 {
     class Grid
