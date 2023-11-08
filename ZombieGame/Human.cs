@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 
+// Lucas Ghigli
+// 08/28/2022
+// Zombie Infestation Game
+// Human.cs
+
 namespace ZombieGame
 {
     class Human
