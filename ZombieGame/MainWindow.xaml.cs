@@ -15,6 +15,10 @@ using System.Windows.Shapes;
 using System.Threading;
 using System.IO;
 
+// Lucas Ghigli
+// 08/28/2022
+// Zombie Infestation Game
+//MainWindow.xaml.cs
 
 namespace ZombieGame
 {
