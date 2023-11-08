@@ -8,7 +8,7 @@ using System.IO;
 // Lucas Ghigli
 // 08/28/2022
 // Zombie Infestation Game
-// ZombieGame.java
+// Grid.cs
 
 namespace ZombieGame
 {
